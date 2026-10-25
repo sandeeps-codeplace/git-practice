@@ -1,1 +1,2 @@
 hello, I am Sandeep kumar writing this text for notest and practice pursopse aswell, this will add in below line in existing note.txt file 
+line2: this is updation 
